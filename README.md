@@ -62,18 +62,5 @@ Includes a complete JUnit test suite that:
 
 
 
-src/
-├── bird/
-│   ├── Bird.java
-│   ├── BirdOfPrey.java
-│   ├── Parrot.java
-│   └── ...
-├── conservatory/
-│   ├── Aviary.java
-│   ├── Conservatory.java
-│   └── ...
-├── Main.java
-test/
-├── BirdTest.java
-├── ConservatoryTest.java
+
 
